@@ -1,6 +1,6 @@
-﻿Day7: FTP-Socket
+﻿FTP-Socket
 """
-__author:wangsong  2016-03-03
+__author:zangfan  2017-10-25
 """
 
 功能说明：
