@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-author: wangsong
+author: zangfans
 系统公共模块
 """
 from datetime import datetime
