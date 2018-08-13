@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-__author: wangsong
+__author: zangfans
 用户相关操作类，包括：
 创建用户、用户验证、获取用户的磁盘配额信息、断点续传文件信息、创建用户文档
 """
