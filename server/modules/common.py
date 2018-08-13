@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-__author:wangsong
+__author:zangfans
 公共函数模块
 """
 import hashlib
