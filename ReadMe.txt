@@ -1,6 +1,6 @@
 ﻿FTP-Socket
 """
-__author:zangfan  2017-10-25
+__author:zangfans  2017-10-25
 """
 
 功能说明：
