@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-__author : wangsong
+__author : zangfans
 主接口文件,通过本文件去调用命令模块
 """
 from module.client import Client
